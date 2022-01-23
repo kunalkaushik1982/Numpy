@@ -80,6 +80,8 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+Untitled.ipynb
+sh.exe.stackdump
 
 # pyenv
 .python-version
